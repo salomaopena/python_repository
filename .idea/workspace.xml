@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e180c67b-4cfd-46af-a33e-75ec495e9a27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python_projects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_repository/aula02/main_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_repository/aula02/main_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/calcula_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/calcula_juros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/velocidade_media.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula04/cabine_bondinho.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula04/condicionais.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula04/numero_par_impar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python_repository" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectColorInfo">{
@@ -43,18 +43,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.cabine_bondinho.executor": "Run",
+    "Python.calcula_area.executor": "Run",
+    "Python.calcula_juros.executor": "Run",
+    "Python.condicionais.executor": "Run",
     "Python.example02.executor": "Run",
     "Python.main (1).executor": "Run",
     "Python.main.executor": "Run",
+    "Python.numero_par_impar.executor": "Run",
+    "Python.velocidade_media.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/python_repository/aula01" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/python_repository/aula01" />
       <recent name="$PROJECT_DIR$/python_repository" />
     </key>
   </component>

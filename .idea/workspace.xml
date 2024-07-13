@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e180c67b-4cfd-46af-a33e-75ec495e9a27" name="Changes" comment="" />
+    <list default="true" id="e180c67b-4cfd-46af-a33e-75ec495e9a27" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/aula08/loopfor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula08/tabuda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula09/initialize_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula09/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula10/liscompreension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula11/acender_lampada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula12/jogo_forca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/lesson01/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/lesson02/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/lesson03/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,14 +48,27 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.acender_lampada.executor": "Run",
+    "Python.basquet_robo.executor": "Run",
     "Python.cabine_bondinho.executor": "Run",
     "Python.calcula_area.executor": "Run",
     "Python.calcula_juros.executor": "Run",
     "Python.condicionais.executor": "Run",
+    "Python.eleif.executor": "Run",
+    "Python.estrutura_repeticao.executor": "Run",
     "Python.example02.executor": "Run",
+    "Python.fliper.executor": "Run",
+    "Python.fliper_v2.executor": "Run",
+    "Python.gangorra.executor": "Run",
+    "Python.initialize_list.executor": "Run",
+    "Python.jogo_forca.executor": "Run",
+    "Python.liscompreension.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.loopfor.executor": "Run",
     "Python.main (1).executor": "Run",
     "Python.main.executor": "Run",
     "Python.numero_par_impar.executor": "Run",
+    "Python.tabuda.executor": "Run",
     "Python.velocidade_media.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
@@ -52,12 +78,36 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/functions" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/python_repository/aula01" />
       <recent name="$PROJECT_DIR$/python_repository" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="python_projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (python_projects)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python_projects" />
       <option name="ENV_FILES" value="" />

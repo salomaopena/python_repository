@@ -6,4 +6,6 @@ def valor(quantidade, preco):
 q = int(input('Informe a quantidade: '))
 p = float(input('Informe o preco: '))
 
-valor(q,p)
+total=valor(q,p)
+
+print (f'O total do valor é {total}') 

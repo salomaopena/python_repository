@@ -1,6 +1,8 @@
 #HI Guys, today I Will show you how to read CSV with pandas
 
 import pandas as pd
+import streamlit as st
+import altair as alt
 
 # Create a DataFrame from a CSV file
 
@@ -99,4 +101,5 @@ summary_stats = pd.DataFrame({
 
 
 print(summary_stats)
+
 

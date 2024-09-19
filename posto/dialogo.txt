@@ -1,0 +1,6 @@
+
+1 - Realizar um novo abastecimento
+2 - Bloquear posto
+3 - Desbloquer
+4 - Gerar Relatório
+5 - Fechar posto

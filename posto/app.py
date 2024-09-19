@@ -36,9 +36,7 @@ def operacao(op,posto_dados):
             posto_dados['bloqueado'] = False
             return 'O posto acaba de ser desbloqueado.'
     elif op == 4:
-        pass
-    elif op == 5:
-        if op ==
+        relatorio('relatorio 01',posto_dados)
 
 
 
@@ -52,3 +50,4 @@ while True:
         break
     resposta = operacao(opcao,posto_dados)
     print(resposta,posto_dados)
+print('O posto foi fechado!')

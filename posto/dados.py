@@ -46,6 +46,18 @@ def ler_frentistas(arquivo):
     return frentistas
     
 
+def relatorio(nome,posto_dados):
+    nome+='.txt'
+    with open(nome,'a+',encoding='utf-8') as file:
+        file.write(f'Relatório do Posto {posto_dados["nome"]}\n\n')
+
+        file.write('Combustívieis: \n\n')
+        for combustivel in posto_dados['combustiveis'].items():
+            file.write(f"Tipo: {combustivel[0]}\n\n")
+            file.write(f"Disponível: {combustivel[1]['volume']}\n")
+            file.write(f"Preço Atual: {combustivel[1]['preco']}\n")
+
+# Crie aqui seu código para o Frentista5
 
 
 

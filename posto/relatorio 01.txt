@@ -1,0 +1,15 @@
+Relatório do Posto Uberlândia
+
+Combustívieis: 
+Relatório do Posto Uberlândia
+
+Combustívieis: 
+
+Tipo: gasolina
+
+Disponícel: 200
+Preço Atual: 5.7
+Tipo: etanol
+
+Disponícel: 329.79
+Preço Atual: 4.7

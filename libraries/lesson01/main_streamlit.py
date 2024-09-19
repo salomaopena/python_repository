@@ -2,6 +2,7 @@
 
 import pandas as pd
 import streamlit as st
+import altair as alt
 
 # Create a DataFrame from a CSV file
 
@@ -13,8 +14,8 @@ def ler_csv(nome):
     #print(df)
     return df
 
-students = ler_csv('libraries/students_complete')
-schools = ler_csv('libraries/schools_complete')
+students = ler_csv('students_complete')
+schools = ler_csv('schools_complete')
 
 # Identify students quantities
 # df.shape = retorna uma tupla com o numero de linhas e o numero de colunas.

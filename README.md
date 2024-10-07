@@ -14,4 +14,4 @@ Python - Quick Tips repository was created to offer a collection of practical ti
 In addition to being a learning resource, the repository is collaborative, allowing other programmers to share their own tips and experiences. The goal is to create a community where everyone can contribute to mutual growth, whether by adding new content or reviewing existing materials. This way, the repository not only spreads knowledge but also encourages interaction within the developer community.
 
 
-
+![Imagem]<img src="/Capturar.PNG">
